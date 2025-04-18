@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a6c8cfdf-e61b-433f-abe3-f4a68ed51dcb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/GSR-PyClient.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ReadMe.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/audio/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cred/ReadMe.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos.mk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/api/annotations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/api/client.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/api/field_behavior.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/api/field_info.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/api/http.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/api/launch_stage.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/api/resource.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/cloud/speech/v2/locations_metadata.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/longrunning/operations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/protobuf/any.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/protobuf/descriptor.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/protobuf/duration.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/protobuf/empty.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/protobuf/field_mask.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/protobuf/timestamp.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/gcp/rpc/status.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/service/gcp_asr_v2.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/service/gcp_locations.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/service/gcp_tts_v1.proto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comedia/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comedia/cowave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/comedia/wave.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gcp/api/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gcp/cloud/speech/v2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gcp/longrunning/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gcp/protobuf/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gcp/rpc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sdklog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sdklog/_interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sdklog/colored_formatter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/service/__init__.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2vtpgrpm9TVWKlwBhSTVZbvtZCQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Makefile Target.Compile Proto.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.Run [ASR with cache].executor": "Run",
+    "Python.Run [ASR].executor": "Run",
+    "Python.Run [Help].executor": "Run",
+    "Python.Run [TTS].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/terenceyao/PyProjects/workspace/GSR-PyClient/src/main.py",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.Run [TTS]">
+    <configuration name="Compile Proto" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile">
+      <makefile filename="$PROJECT_DIR$/protos.mk" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Run [ASR with cache]" type="PythonConfigurationType" factoryName="Python">
+      <module name="GSR-PyClient" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (GSR-PyClient)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="-r asr -c $ProjectFileDir$/cred/asr.json -w $ProjectFileDir$/audio/sample_20.wav --cache" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run [ASR]" type="PythonConfigurationType" factoryName="Python">
+      <module name="GSR-PyClient" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (GSR-PyClient)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="-r asr -c $ProjectFileDir$/cred/asr.json -w $ProjectFileDir$/audio/sample_20.wav" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run [Help]" type="PythonConfigurationType" factoryName="Python">
+      <module name="GSR-PyClient" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (GSR-PyClient)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="-h" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Run [TTS]" type="PythonConfigurationType" factoryName="Python">
+      <module name="GSR-PyClient" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.10 (GSR-PyClient)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/main.py" />
+      <option name="PARAMETERS" value="-r tts -c $ProjectFileDir$/cred/tts.json -o $ProjectFileDir$/audio" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="true" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Target.Compile Proto" />
+      <item itemvalue="Python.Run [ASR with cache]" />
+      <item itemvalue="Python.Run [ASR]" />
+      <item itemvalue="Python.Run [TTS]" />
+      <item itemvalue="Python.Run [Help]" />
+    </list>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a6c8cfdf-e61b-433f-abe3-f4a68ed51dcb" name="Changes" comment="" />
+      <created>1744974339634</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1744974339634</updated>
+    </task>
+    <servers />
+  </component>
+</project>

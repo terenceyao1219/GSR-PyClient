@@ -1,0 +1,11 @@
+**/__pycache__
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+### Storage ###
+audio/*.wav
+cred/*.json
